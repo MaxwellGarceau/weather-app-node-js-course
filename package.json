@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A weather-app I made using node.js. Part of The Complete Node.js Developer Course 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellGarceau/weather-app-node-js-course.git"
+  },
+  "author": "Max Garceau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxwellGarceau/weather-app-node-js-course/issues"
+  },
+  "homepage": "https://github.com/MaxwellGarceau/weather-app-node-js-course#readme",
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}
